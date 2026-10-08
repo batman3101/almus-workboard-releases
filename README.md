@@ -14,6 +14,8 @@
 
 **[최신 버전 받기](https://github.com/batman3101/almus-workboard-releases/releases/latest)**
 
+**[사용 설명서 받기 · Tải hướng dẫn sử dụng](https://github.com/batman3101/almus-workboard-releases/raw/main/manual/ALMUS-WorkBoard-Manual.html)** (한국어·Tiếng Việt, HTML 파일 하나: 받아서 브라우저로 여세요)
+
 - **Windows**: `ALMUS-WorkBoard-Setup-<버전>.exe`를 받아 두 번 누르면 설치되고 바로 실행됩니다. "Windows의 PC 보호" 창이 뜨면 "추가 정보" → "실행"을 누르세요. 회사 이메일과 비밀번호로 로그인합니다.
 - **Android**: `ALMUS-WorkBoard-<버전>.apk`를 휴대폰에서 열어 설치합니다("출처를 알 수 없는 앱" 허용을 물으면 허용).
 - **아이폰** (받을 파일 없음):
